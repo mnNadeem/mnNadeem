@@ -2,7 +2,7 @@
 
 💻 **Full-stack Developer | 5+ years experience**  
 ⚡ Passionate about building scalable apps with **NestJS | Next.js | React | Golang | Docker | AWS**  
-📊 Experienced in **Microservices | Stripe | Postgresql**
+📊 Experienced in **Microservices | Stripe | PostgreSQL**
 
 ---
 
