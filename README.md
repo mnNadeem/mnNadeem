@@ -35,10 +35,3 @@
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-r/)  
 
----
-
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mnNadeem/mnNadeem/main/assets/coding.gif" width="600" />
-</p>
-
