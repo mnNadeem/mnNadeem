@@ -26,7 +26,7 @@
 ---
 
 ### 🚀 Featured Projects
-- [**QR Code Generator**](#) – Fully customizable QR code generation with NestJS  
+- [**QR Code Generator**](https://codly.com/) – Fully customizable QR code generation with NestJS  
 - [**Cluster Manager UI**](#) – Next.js dashboard for monitoring & managing clusters  
 - [**Payment Microservice**](#) – Centralized Stripe-powered subscription & payments API  
 - [**Page Analytics API**](#) – Visit tracking and analytics with NestJS + PostgreSQL  
