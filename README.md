@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/muhammadnadeem/muhammadnadeem/main/assets/banner.gif" alt="Welcome Banner" width="100%" />
-
 # Hi there, I'm Muhammad Nadeem 👋
 
 💻 **Full-stack Developer | 5+ years experience**  
