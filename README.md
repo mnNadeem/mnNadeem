@@ -26,7 +26,7 @@
 
 ### 🚀 Featured Projects
 - [**QR Code Generator**](https://codly.com/) – Fully customizable QR code generation with NestJS  
-- [**Cluster Manager UI**](#) – Next.js dashboard for monitoring & managing clusters  
+- [**Foriio**](https://www.foriio.com/) – Personal portfolio building platform built using React  
 - [**Payment Microservice**](#) – Centralized Stripe-powered subscription & payments API  
 - [**Page Analytics API**](#) – Visit tracking and analytics with NestJS + PostgreSQL  
 
