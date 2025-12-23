@@ -24,12 +24,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- [**QR Code Generator**](https://codly.com/) – Fully customizable QR code generation with NestJS  
-- [**Foriio**](https://www.foriio.com/) – Personal portfolio building platform built using React    
-
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-r/)  
 
