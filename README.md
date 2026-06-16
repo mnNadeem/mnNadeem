@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Nadeem 👋
 
-💻 **Full-stack Developer | 5+ years experience**  
-⚡ Passionate about building scalable apps with **NestJS | Next.js | React | Golang | Docker | AWS**  
+💻 **Full-stack Developer | 6+ years experience**  
+⚡ Passionate about building scalable apps with **Golang | NestJS | Next.js | React | Golang | Docker | AWS**  
 📊 Experienced in **Microservices | Stripe | PostgreSQL**
 
 ---
